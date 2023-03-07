@@ -3,7 +3,7 @@
 
 }
 h2 {
-	text-align: center;
+	text-align: left;
 
 }
 p {
@@ -17,4 +17,8 @@ p {
 a {
 	display: inline;
 	padding: 50px;
+}
+nav {
+	background-color: #6BB6F2;
+	text-align: center;
 }
