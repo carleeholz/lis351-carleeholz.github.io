@@ -1,0 +1,20 @@
+* {
+	font-family: garamond-serif
+
+}
+h2 {
+	text-align: center;
+
+}
+p {
+	background-color: #6C9EDB;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	padding-left: 25px;
+	padding-right: 25px;
+
+}
+nav {
+	display: inline;
+	padding: 20px;
+}
