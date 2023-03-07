@@ -19,6 +19,8 @@ a {
 	padding: 50px;
 }
 nav {
+	margin: 10px;
+	padding: 5px;
 	background-color: #6BB6F2;
 	text-align: center;
 }
