@@ -17,6 +17,8 @@ p {
 	background-color: #6C9EDB;
 	padding-top: 10px;
 	padding-bottom: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 a {
 	display: inline;
@@ -33,6 +35,7 @@ article {
 	padding-right: 10px;
 	padding-left: 10px;
 	width: 460px;
+	float: left;
 }
 body {
 	background-color: #BFDFF5;
