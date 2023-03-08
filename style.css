@@ -30,6 +30,9 @@ article {
 	display: inline;
 	padding-right: 10px;
 	padding-left: 10px;
-	width: 460px;
+	width: 300px;
 	float: left;
+}
+body {
+	background-color: #B3DFFF;
 }
