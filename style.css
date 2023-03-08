@@ -24,3 +24,32 @@ nav {
 	background-color: #6BB6F2;
 	text-align: center;
 }
+* {
+	font-family: garamond-serif
+
+}
+h2 {
+	text-align: left;
+
+}
+p {
+	background-color: #6C9EDB;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	padding-left: 25px;
+	padding-right: 25px;
+
+}
+a {
+	display: inline;
+	padding: 50px;
+}
+nav {
+	margin: 10px;
+	padding: 5px;
+	background-color: #6BB6F2;
+	text-align: center;
+}
+article {
+	align-content: inline;
+}
