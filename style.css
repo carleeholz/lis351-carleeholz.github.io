@@ -29,8 +29,8 @@ nav {
 }
 article {
 	display: inline;
-	padding-right: 100px;
-	padding-left: 100px;
+	padding-right: 200px;
+	padding-left: 200px;
 	width: 480px;
 	float: center;
 }
